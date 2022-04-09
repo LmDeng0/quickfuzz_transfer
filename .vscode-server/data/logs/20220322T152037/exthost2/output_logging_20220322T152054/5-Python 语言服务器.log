@@ -1,0 +1,22 @@
+[Info  - 3:22:05 PM] (5482) Pylance language server 2022.3.2 (pyright d2d8122b) starting
+[Info  - 3:22:05 PM] (5482) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.2/dist
+[Info  - 3:22:05 PM] (5482) No configuration file found.
+[Info  - 3:22:05 PM] (5482) No pyproject.toml file found.
+[Info  - 3:22:05 PM] (5482) Setting pythonPath for service "root": "/usr/bin/python3"
+[Warn  - 3:22:05 PM] (5482) stubPath /root/typings is not a valid directory.
+[Info  - 3:22:05 PM] (5482) Assuming Python version 3.6
+[Info  - 3:22:05 PM] (5482) Assuming Python platform Linux
+[Warn  - 3:22:06 PM] (5482) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 3:22:06 PM] (5482) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 3:22:06 PM] (5482) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 3:22:06 PM] (5482) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 3:22:06 PM] (5482) Searching for source files
+[Info  - 3:22:06 PM] (5482) Auto-excluding /root/retrowrite/retro
+[Info  - 3:22:06 PM] (5482) Found 152 source files
+[Info  - 3:22:06 PM] (5482) Background analysis(1) root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.2/dist
+[Info  - 3:22:06 PM] (5482) Background analysis(1) started
+[Info  - 3:22:06 PM] (5482) Indexer background runner(2) root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.2/dist (index)
+[Info  - 3:22:06 PM] (5482) Indexing(2) started
+[Info  - 3:22:08 PM] (5482) Indexer done(2). indexed 445 files
+[Info  - 3:22:09 PM] (5482) [BG(1)] Long operation: checking: /root/retrowrite/retro/bin/retrowrite (2292ms)
+[Info  - 3:22:09 PM] (5482) [BG(1)] Long operation: analyzing: /root/retrowrite/retro/bin/retrowrite (2682ms)

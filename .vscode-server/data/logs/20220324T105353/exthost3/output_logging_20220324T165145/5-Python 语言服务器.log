@@ -1,0 +1,22 @@
+[Info  - 4:51:48 PM] (10817) Pylance language server 2022.3.3 (pyright dd7420c5) starting
+[Info  - 4:51:48 PM] (10817) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.3/dist
+[Info  - 4:51:48 PM] (10817) No configuration file found.
+[Info  - 4:51:48 PM] (10817) No pyproject.toml file found.
+[Info  - 4:51:48 PM] (10817) Setting pythonPath for service "retro-test": "/usr/bin/python3"
+[Warn  - 4:51:48 PM] (10817) stubPath /root/retro-test/typings is not a valid directory.
+[Info  - 4:51:48 PM] (10817) Assuming Python version 3.6
+[Info  - 4:51:48 PM] (10817) Assuming Python platform Linux
+[Warn  - 4:51:49 PM] (10817) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 4:51:49 PM] (10817) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 4:51:49 PM] (10817) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 4:51:49 PM] (10817) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 4:51:49 PM] (10817) Searching for source files
+[Info  - 4:51:49 PM] (10817) Auto-excluding /root/retro-test/retrowrite/retro
+[Info  - 4:51:49 PM] (10817) Found 152 source files
+[Info  - 4:51:49 PM] (10817) Background analysis(1) root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.3/dist
+[Info  - 4:51:49 PM] (10817) Background analysis(1) started
+[Info  - 4:51:49 PM] (10817) Indexer background runner(2) root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.3/dist (index)
+[Info  - 4:51:49 PM] (10817) Indexing(2) started
+[Info  - 4:51:50 PM] (10817) Indexer done(2). indexed 445 files
+[Info  - 4:51:52 PM] (10817) [BG(1)] Long operation: checking: /root/retro-test/retrowrite/retro/bin/retrowrite (2272ms)
+[Info  - 4:51:52 PM] (10817) [BG(1)] Long operation: analyzing: /root/retro-test/retrowrite/retro/bin/retrowrite (2656ms)

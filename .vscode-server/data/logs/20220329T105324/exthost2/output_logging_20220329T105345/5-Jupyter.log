@@ -1,0 +1,18 @@
+Visual Studio Code (1.65.2, ssh-remote, desktop)
+Jupyter Extension Version: 2022.2.1030672458.
+Python Extension Version: 2022.2.1924087327.
+用户属于实验组 'jupyterTestcf'
+用户属于实验组 'jupyterEnhancedDataViewer'
+Info 10:54:17: ZMQ install verified.
+Info 10:54:18: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+Info 10:54:18: Getting activation commands for /root/retrowrite/retro/bin/python are not cached. May take a while.
+Info 10:54:18: Activation Commands received source /root/retrowrite/retro/bin/activate for shell bash
+Info 10:54:18: Process Execution: > ~/retrowrite/retro/bin/python -m pip list
+> ~/retrowrite/retro/bin/python -m pip list
+Info 15:17:53: Shutting down notebooks for 494ce581-e7c5-4aaa-8039-ac1c05e41b12
+Info 15:17:53: Disposing HostJupyterExecution 5c0802e0-6b34-49a8-b501-607a65790f81
+Info 15:17:53: Disposing super HostJupyterExecution 5c0802e0-6b34-49a8-b501-607a65790f81
+Info 15:17:53: Disposing HostJupyterExecution 5c0802e0-6b34-49a8-b501-607a65790f81
+Info 15:17:53: Finished disposing HostJupyterExecution  5c0802e0-6b34-49a8-b501-607a65790f81
+Info 15:17:53: Cleaning up server cache 5c0802e0-6b34-49a8-b501-607a65790f81
+Info 15:17:53: Finished disposing HostJupyterExecution  5c0802e0-6b34-49a8-b501-607a65790f81

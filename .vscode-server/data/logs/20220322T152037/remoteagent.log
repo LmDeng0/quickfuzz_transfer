@@ -1,0 +1,62 @@
+[2022-03-22 15:20:37.325] [remoteagent] [info] Extension host agent started.
+[2022-03-22 15:20:38.391] [remoteagent] [info] [127.0.0.1][96737f75][ManagementConnection] New connection established.
+[2022-03-22 15:20:38.701] [remoteagent] [info] [127.0.0.1][53890fea][ExtensionHostConnection] New connection established.
+[2022-03-22 15:20:38.709] [remoteagent] [info] [127.0.0.1][53890fea][ExtensionHostConnection] <5235> Launched Extension Host Process.
+[2022-03-22 15:20:44.823] [remoteagent] [info] [127.0.0.1][96737f75][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-03-22 15:20:44.836] [remoteagent] [info] [127.0.0.1][53890fea][ExtensionHostConnection] <5235> Extension Host Process exited with code: 0, signal: null.
+[2022-03-22 15:20:44.836] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-03-22 15:20:52.535] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-03-22 15:20:52.535] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-03-22 15:20:52.934] [remoteagent] [info] [127.0.0.1][f85d2e90][ExtensionHostConnection] New connection established.
+[2022-03-22 15:20:52.934] [remoteagent] [info] [127.0.0.1][1b044bf6][ManagementConnection] New connection established.
+[2022-03-22 15:20:52.938] [remoteagent] [info] [127.0.0.1][f85d2e90][ExtensionHostConnection] <5392> Launched Extension Host Process.
+[2022-03-22 15:21:44.516] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-03-22 15:21:46.141] [remoteagent] [info] Installing extension: ms-python.python
+[2022-03-22 15:21:47.338] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-03-22 15:21:47.938] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-03-22 15:21:47.964] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-03-22 15:21:47.990] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-03-22 15:21:48.101] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2022-03-22 15:21:48.102] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2022-03-22 15:21:48.102] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-03-22 15:21:48.102] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-03-22 15:21:48.948] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-keymap /root/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2022-03-22 15:21:49.058] [remoteagent] [info] Downloaded extension: ms-python.python /root/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2022.2.1924087327
+[2022-03-22 15:21:49.125] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.50ad2755-37f2-4839-a839-f4a6179c4115: ms-toolsai.jupyter-keymap
+[2022-03-22 15:21:49.142] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2022-03-22 15:21:49.146] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2022-03-22 15:21:49.187] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-renderers /root/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.6
+[2022-03-22 15:21:49.187] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /root/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.2.1030672458
+[2022-03-22 15:21:49.637] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.392f80b2-7919-4d92-a477-bbd65e3391b4: ms-toolsai.jupyter-renderers
+[2022-03-22 15:21:49.651] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.6
+[2022-03-22 15:21:49.655] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-03-22 15:21:50.541] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.1bec8d58-a7e7-43db-89ce-d896474705f6: ms-toolsai.jupyter
+[2022-03-22 15:21:50.562] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-2022.2.1030672458
+[2022-03-22 15:21:50.567] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2022-03-22 15:21:52.059] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.63d17163-86c5-4ab7-aec2-dfb63b5fed9c: ms-python.python
+[2022-03-22 15:21:52.073] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-python.python-2022.2.1924087327
+[2022-03-22 15:21:52.076] [remoteagent] [info] Extracting completed. ms-python.python
+[2022-03-22 15:21:58.498] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /root/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.3.2
+[2022-03-22 15:22:01.781] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.04f9f6fc-af45-4cda-b85d-cbbe79b942cf: ms-python.vscode-pylance
+[2022-03-22 15:22:01.794] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.2
+[2022-03-22 15:22:01.796] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-03-22 15:22:01.796] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2022-03-22 15:22:01.797] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-03-22 15:22:01.797] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-03-22 15:22:01.797] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2022-03-22 15:22:01.797] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-03-22 15:25:52.536] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-03-22 17:26:44.361] [remoteagent] [info] [127.0.0.1][f85d2e90][ExtensionHostConnection] The client has reconnected.
+[2022-03-22 17:26:47.770] [remoteagent] [info] [127.0.0.1][1b044bf6][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-22 19:19:26.056] [remoteagent] [info] [127.0.0.1][1b044bf6][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-22 19:19:26.056] [remoteagent] [info] [127.0.0.1][eda0f3dc][ManagementConnection] New connection established.
+[2022-03-22 19:19:26.146] [remoteagent] [info] [127.0.0.1][a1191a63][ExtensionHostConnection] New connection established.
+[2022-03-22 19:19:26.164] [remoteagent] [info] [127.0.0.1][a1191a63][ExtensionHostConnection] <5793> Launched Extension Host Process.
+[2022-03-22 19:24:26.096] [remoteagent] [info] [127.0.0.1][1b044bf6][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2022-03-22 19:24:26.356] [remoteagent] [info] [127.0.0.1][f85d2e90][ExtensionHostConnection] <5392> Extension Host Process exited with code: 0, signal: null.
+[2022-03-23 00:15:25.608] [remoteagent] [info] [127.0.0.1][a1191a63][ExtensionHostConnection] The client has reconnected.
+[2022-03-23 00:15:31.228] [remoteagent] [info] [127.0.0.1][eda0f3dc][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-23 03:15:38.456] [remoteagent] [info] [127.0.0.1][eda0f3dc][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2022-03-23 03:15:41.012] [remoteagent] [info] [127.0.0.1][a1191a63][ExtensionHostConnection] <5793> Extension Host Process exited with code: 0, signal: null.
+[2022-03-23 03:15:41.013] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-03-23 03:20:41.014] [remoteagent] [info] Last EH closed, shutting down

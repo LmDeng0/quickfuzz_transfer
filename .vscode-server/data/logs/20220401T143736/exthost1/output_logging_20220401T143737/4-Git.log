@@ -1,0 +1,23 @@
+[2022-04-01T06:37:39.071Z] Validating found git in: git
+[2022-04-01T06:37:39.104Z] Using git 2.17.1 from git
+[2022-04-01T06:37:39.132Z] > git rev-parse --git-dir [1ms]
+[2022-04-01T06:37:39.140Z] Open repository: /root/retrowrite
+[2022-04-01T06:37:39.230Z] > git symbolic-ref --short HEAD [18ms]
+[2022-04-01T06:37:39.236Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [1ms]
+[2022-04-01T06:37:39.335Z] > git remote --verbose [85ms]
+[2022-04-01T06:37:39.335Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [93ms]
+[2022-04-01T06:37:39.376Z] > git config --get commit.template [4ms]
+[2022-04-01T06:37:39.912Z] > git rev-parse --git-dir [1ms]
+[2022-04-01T06:37:39.916Z] Open repository: /root/retrowrite/third-party/capstone
+[2022-04-01T06:37:39.944Z] > git symbolic-ref --short HEAD [3ms]
+[2022-04-01T06:37:39.944Z] fatal: ref HEAD is not a symbolic ref
+[2022-04-01T06:37:39.951Z] > git rev-parse HEAD [1ms]
+[2022-04-01T06:37:39.970Z] > git remote --verbose [3ms]
+[2022-04-01T06:37:39.971Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [14ms]
+[2022-04-01T06:37:39.984Z] > git config --get commit.template [5ms]
+[2022-04-01T06:37:40.028Z] > git ls-files --stage -- /root/retrowrite/tests/binutils/rewrite.json [1ms]
+[2022-04-01T06:37:40.037Z] > git cat-file -s eeb11e64229f50eed7fa0a8d51b447e89a8cee08 [2ms]
+[2022-04-01T07:08:29.653Z] > git ls-files --stage -- /root/retrowrite/tests/binutils/Makefile [2ms]
+[2022-04-01T07:08:29.660Z] > git cat-file -s b3ed81137404c4a6a25506358aaae0384291c58f [2ms]
+[2022-04-01T07:08:55.950Z] > git ls-files --stage -- /root/retrowrite/librw_arm64/rw.py [2ms]
+[2022-04-01T07:08:55.958Z] > git cat-file -s bcecb307d13d0f0fd2f5e8c2d8ef84c65daceca2 [1ms]

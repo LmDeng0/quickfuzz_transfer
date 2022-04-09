@@ -1,0 +1,11 @@
+[2022-03-26 14:32:59.867] [remoteagent] [info] Extension host agent started.
+[2022-03-26 14:33:00.018] [remoteagent] [info] [127.0.0.1][e9a9d9c0][ManagementConnection] New connection established.
+[2022-03-26 14:33:00.070] [remoteagent] [info] [127.0.0.1][72eefb34][ExtensionHostConnection] New connection established.
+[2022-03-26 14:33:00.086] [remoteagent] [info] [127.0.0.1][72eefb34][ExtensionHostConnection] <13601> Launched Extension Host Process.
+[2022-03-26 14:33:00.293] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /root/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.2
+[2022-03-26 16:24:23.290] [remoteagent] [info] [127.0.0.1][72eefb34][ExtensionHostConnection] The client has reconnected.
+[2022-03-26 16:24:27.495] [remoteagent] [info] [127.0.0.1][e9a9d9c0][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-26 19:24:34.213] [remoteagent] [info] [127.0.0.1][e9a9d9c0][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2022-03-26 19:24:37.623] [remoteagent] [info] [127.0.0.1][72eefb34][ExtensionHostConnection] <13601> Extension Host Process exited with code: 0, signal: null.
+[2022-03-26 19:24:37.623] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-03-26 19:29:37.624] [remoteagent] [info] Last EH closed, shutting down

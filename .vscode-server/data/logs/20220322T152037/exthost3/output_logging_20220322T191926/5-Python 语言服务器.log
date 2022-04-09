@@ -1,0 +1,31 @@
+[Info  - 7:19:29 PM] (5871) Pylance language server 2022.3.2 (pyright d2d8122b) starting
+[Info  - 7:19:29 PM] (5871) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.2/dist
+[Info  - 7:19:29 PM] (5871) No configuration file found.
+[Info  - 7:19:29 PM] (5871) No pyproject.toml file found.
+[Info  - 7:19:29 PM] (5871) Setting pythonPath for service "root": "/usr/bin/python3"
+[Warn  - 7:19:29 PM] (5871) stubPath /root/typings is not a valid directory.
+[Info  - 7:19:29 PM] (5871) Assuming Python version 3.6
+[Info  - 7:19:29 PM] (5871) Assuming Python platform Linux
+[Warn  - 7:19:30 PM] (5871) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 7:19:30 PM] (5871) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 7:19:30 PM] (5871) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 7:19:30 PM] (5871) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 7:19:30 PM] (5871) Searching for source files
+[Info  - 7:19:30 PM] (5871) Auto-excluding /root/retrowrite/retro
+[Info  - 7:19:30 PM] (5871) Found 152 source files
+[Info  - 7:19:30 PM] (5871) Background analysis(1) root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.2/dist
+[Info  - 7:19:30 PM] (5871) Background analysis(1) started
+[Info  - 7:19:30 PM] (5871) Indexer background runner(2) root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.2/dist (index)
+[Info  - 7:19:30 PM] (5871) Indexing(2) started
+[Info  - 7:19:32 PM] (5871) Indexer done(2). indexed 445 files
+[Info  - 7:19:33 PM] (5871) [BG(1)] Long operation: checking: /root/retrowrite/retro/bin/retrowrite (2326ms)
+[Info  - 7:19:33 PM] (5871) [BG(1)] Long operation: analyzing: /root/retrowrite/retro/bin/retrowrite (2695ms)
+[Info  - 7:19:49 PM] (5871) [BG(1)] Long operation: getSemanticTokens full at /root/retrowrite/librw_arm64/rw.py (2160ms)
+[Info  - 7:20:35 PM] (5871) Searching for source files
+[Info  - 7:20:35 PM] (5871) Auto-excluding /root/retrowrite/retro
+[Info  - 7:20:35 PM] (5871) Found 152 source files
+[Info  - 7:24:26 PM] (5871) Searching for source files
+[Info  - 7:24:26 PM] (5871) Auto-excluding /root/retrowrite/retro
+[Info  - 7:24:26 PM] (5871) Found 152 source files
+[Info  - 7:24:29 PM] (5871) [BG(1)] Long operation: checking: /root/retrowrite/librw_arm64/rw.py (2564ms)
+[Info  - 7:24:29 PM] (5871) [BG(1)] Long operation: analyzing: /root/retrowrite/librw_arm64/rw.py (2902ms)

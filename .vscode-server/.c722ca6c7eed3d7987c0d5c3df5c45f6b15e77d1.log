@@ -1,0 +1,22 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:38677 (IPv4)
+Extension host agent listening on 38677
+
+[14:37:36] Extension host agent started.
+[14:37:36] [127.0.0.1][5fdaa6d5][ManagementConnection] New connection established.
+[14:37:36] [127.0.0.1][3810568e][ExtensionHostConnection] New connection established.
+[14:37:36] [127.0.0.1][3810568e][ExtensionHostConnection] <24087> Launched Extension Host Process.
+[14:37:36] Deleted from disk ms-python.vscode-pylance /root/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.3
+[14:37:37] Deleted from disk ms-python.python /root/.vscode-server/extensions/ms-python.python-2022.2.1924087327
+[15:49:17] [127.0.0.1][5fdaa6d5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:49:17] [127.0.0.1][3810568e][ExtensionHostConnection] <24087> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[15:49:17] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[15:54:17] Last EH closed, shutting down

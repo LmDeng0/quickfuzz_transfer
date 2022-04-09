@@ -1,0 +1,23 @@
+[2022-03-31 11:05:20.421] [remoteagent] [info] Extension host agent started.
+[2022-03-31 11:05:21.095] [remoteagent] [info] [127.0.0.1][a375faba][ManagementConnection] New connection established.
+[2022-03-31 11:05:21.258] [remoteagent] [info] [127.0.0.1][a567d7b7][ExtensionHostConnection] New connection established.
+[2022-03-31 11:05:21.274] [remoteagent] [info] [127.0.0.1][a567d7b7][ExtensionHostConnection] <21970> Launched Extension Host Process.
+[2022-03-31 11:05:28.053] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-03-31 11:05:28.054] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-03-31 11:05:29.769] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-03-31 11:05:30.882] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /root/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.3.4
+[2022-03-31 11:05:35.014] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.3b525355-5a56-4934-9d46-a31cec5d254f: ms-python.vscode-pylance
+[2022-03-31 11:05:35.034] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.4
+[2022-03-31 11:05:35.036] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-03-31 11:05:35.042] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-03-31 11:05:36.501] [remoteagent] [info] Installing extension: ms-python.python
+[2022-03-31 11:05:37.344] [remoteagent] [info] Downloaded extension: ms-python.python /root/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2022.4.0
+[2022-03-31 11:05:39.534] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.f226ad2f-9b3b-4a80-9648-08cbaa72d442: ms-python.python
+[2022-03-31 11:05:39.552] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-python.python-2022.4.0
+[2022-03-31 11:05:39.555] [remoteagent] [info] Extracting completed. ms-python.python
+[2022-03-31 11:05:39.560] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2022-04-01 00:38:58.836] [remoteagent] [info] [127.0.0.1][a375faba][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-04-01 03:38:57.697] [remoteagent] [info] [127.0.0.1][a567d7b7][ExtensionHostConnection] <21970> Extension Host Process exited with code: 0, signal: null.
+[2022-04-01 03:38:57.698] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-04-01 03:39:09.491] [remoteagent] [info] [127.0.0.1][a375faba][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2022-04-01 03:43:57.699] [remoteagent] [info] Last EH closed, shutting down

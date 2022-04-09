@@ -1,0 +1,24 @@
+[2022-03-22T11:19:28.037Z] Validating found git in: git
+[2022-03-22T11:19:28.083Z] Using git 2.17.1 from git
+[2022-03-22T11:19:28.523Z] > git rev-parse --git-dir [376ms]
+[2022-03-22T11:19:28.531Z] Open repository: /root/retrowrite
+[2022-03-22T11:19:28.610Z] > git symbolic-ref --short HEAD [18ms]
+[2022-03-22T11:19:28.622Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [5ms]
+[2022-03-22T11:19:28.644Z] > git remote --verbose [4ms]
+[2022-03-22T11:19:28.645Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [16ms]
+[2022-03-22T11:19:28.698Z] > git config --get commit.template [6ms]
+[2022-03-22T11:19:29.120Z] > git ls-files --stage -- /root/retrowrite/retro/bin/retrowrite [2ms]
+[2022-03-22T11:19:29.205Z] > git rev-parse --git-dir [2ms]
+[2022-03-22T11:19:29.208Z] Open repository: /root/retrowrite/third-party/capstone
+[2022-03-22T11:19:29.230Z] > git symbolic-ref --short HEAD [1ms]
+[2022-03-22T11:19:29.230Z] fatal: ref HEAD is not a symbolic ref
+[2022-03-22T11:19:29.258Z] > git rev-parse HEAD [20ms]
+[2022-03-22T11:19:29.280Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+[2022-03-22T11:19:29.291Z] > git remote --verbose [13ms]
+[2022-03-22T11:19:29.303Z] > git config --get commit.template [3ms]
+[2022-03-22T11:19:47.086Z] > git ls-files --stage -- /root/retrowrite/librw_arm64/rw.py [3ms]
+[2022-03-22T11:19:47.095Z] > git cat-file -s bcecb307d13d0f0fd2f5e8c2d8ef84c65daceca2 [1ms]
+[2022-03-22T11:20:30.190Z] > git ls-files --stage -- /root/retrowrite/retro/bin/retrowrite [2ms]
+[2022-03-22T11:20:43.735Z] > git ls-files --stage -- /root/retrowrite/retro/bin/retrowrite [4ms]
+[2022-03-22T11:20:44.561Z] > git ls-files --stage -- /root/retrowrite/librw_arm64/rw.py [3ms]
+[2022-03-22T11:20:44.570Z] > git cat-file -s bcecb307d13d0f0fd2f5e8c2d8ef84c65daceca2 [2ms]

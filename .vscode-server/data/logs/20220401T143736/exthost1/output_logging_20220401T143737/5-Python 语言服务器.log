@@ -1,0 +1,20 @@
+[Info  - 2:37:40 PM] (24178) Pylance language server 2022.3.4 (pyright 0d16617a) starting
+[Info  - 2:37:40 PM] (24178) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.4/dist
+[Info  - 2:37:40 PM] (24178) No configuration file found.
+[Info  - 2:37:40 PM] (24178) No pyproject.toml file found.
+[Info  - 2:37:40 PM] (24178) Setting pythonPath for service "retrowrite": "/root/retrowrite/retro/bin/python"
+[Warn  - 2:37:40 PM] (24178) stubPath /root/retrowrite/typings is not a valid directory.
+[Info  - 2:37:40 PM] (24178) Assuming Python version 3.6
+[Info  - 2:37:40 PM] (24178) Assuming Python platform Linux
+[Warn  - 2:37:41 PM] (24178) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 2:37:41 PM] (24178) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 2:37:41 PM] (24178) Searching for source files
+[Info  - 2:37:41 PM] (24178) Auto-excluding /root/retrowrite/retro
+[Info  - 2:37:41 PM] (24178) Found 152 source files
+[Info  - 2:37:41 PM] (24178) Background analysis(1) root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.4/dist
+[Info  - 2:37:41 PM] (24178) Background analysis(1) started
+[Info  - 3:08:55 PM] (24178) Indexer background runner(2) root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.4/dist (index)
+[Info  - 3:08:55 PM] (24178) Indexing(2) started
+[Info  - 3:08:56 PM] (24178) Indexer done(2). indexed 428 files
+[Info  - 3:08:58 PM] (24178) [BG(1)] Long operation: checking: /root/retrowrite/librw_arm64/rw.py (2359ms)
+[Info  - 3:08:58 PM] (24178) [BG(1)] Long operation: analyzing: /root/retrowrite/librw_arm64/rw.py (2720ms)

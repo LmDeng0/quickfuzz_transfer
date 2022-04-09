@@ -1,0 +1,28 @@
+用户属于 'pythonaa' 实验组
+用户属于 'pythonTensorboardExperiment' 实验组
+用户属于 'pythonSurveyNotification' 实验组
+用户属于 'PythonPyTorchProfiler' 实验组
+用户属于 'pythonDeprecatePythonPath' 实验组
+用户属于 'pythonInterpreterInfoPinned' 实验组
+> conda info --json
+> /usr/bin/python ~/.vscode-server/extensions/ms-python.python-2022.2.1924087327/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.2.1924087327/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 ~/.vscode-server/extensions/ms-python.python-2022.2.1924087327/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.2.1924087327/pythonFiles/interpreterInfo.py
+> /usr/include/python3.6 ~/.vscode-server/extensions/ms-python.python-2022.2.1924087327/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.2.1924087327/pythonFiles/interpreterInfo.py
+> ./retro/bin/python ~/.vscode-server/extensions/ms-python.python-2022.2.1924087327/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.2.1924087327/pythonFiles/interpreterInfo.py
+[ERROR 2022-2-29 10:53:46.726]: [Error: Command failed: /usr/include/python3.6 /root/.vscode-server/extensions/ms-python.python-2022.2.1924087327/pythonFiles/get_output_via_markers.py /root/.vscode-server/extensions/ms-python.python-2022.2.1924087327/pythonFiles/interpreterInfo.py
+/bin/sh: 1: /usr/include/python3.6: Permission denied
+
+	at ChildProcess.exithandler (child_process.js:308:12)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Socket.<anonymous> (internal/child_process.js:439:11)
+	at Socket.emit (events.js:315:20)
+	at Pipe.<anonymous> (net.js:673:12)] {
+  killed: false,
+  code: 126,
+  signal: null,
+  cmd: '/usr/include/python3.6 /root/.vscode-server/extensions/ms-python.python-2022.2.1924087327/pythonFiles/get_output_via_markers.py /root/.vscode-server/extensions/ms-python.python-2022.2.1924087327/pythonFiles/interpreterInfo.py'
+}
+Python 解释器路径: ~/retrowrite/retro/bin/python
+正在启动 Pylance 语言服务器。
+> . ./retro/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode-server/extensions/ms-python.python-2022.2.1924087327/pythonFiles/printEnvVariables.py

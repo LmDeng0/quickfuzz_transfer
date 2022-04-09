@@ -1,0 +1,17 @@
+[2022-03-22 15:20:54.059] [exthost] [info] Extension host with pid 5392 started
+[2022-03-22 15:20:54.075] [exthost] [info] Lock '/root/.vscode-server/data/User/workspaceStorage/513bec793df58da89908c20965cf44ee/vscode.lock': Lock acquired.
+[2022-03-22 15:20:54.163] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-22 15:20:54.170] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-22 15:20:54.175] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-22 15:20:54.250] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-22 15:20:54.367] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-22 15:20:54.388] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-22 15:20:54.392] [exthost] [info] Eager extensions activated
+[2022-03-22 15:20:55.828] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-03-22 15:22:03.294] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-03-22 15:22:03.791] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-03-22 15:22:04.563] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-03-22 15:22:04.613] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-03-22 19:24:26.312] [exthost] [info] extension host terminating: renderer disconnected for too long (2)
+[2022-03-22 19:24:26.312] [exthost] [info] Lock '/root/.vscode-server/data/User/workspaceStorage/513bec793df58da89908c20965cf44ee/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-03-22 19:24:26.345] [exthost] [info] Extension host with pid 5392 exiting with code 0
